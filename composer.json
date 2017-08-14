@@ -1,15 +1,14 @@
 {
     "name": "szws01/composer-car",
     "description": "This a demo for build composer packagist .",
-    "type": "library",
-    "license": "MIT",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "jay",
-            "email": "12345678@qq.com"
+            "name": "szws01",
+            "email": "szws01@163.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
 	"php": ">=5.5.0"
     },
