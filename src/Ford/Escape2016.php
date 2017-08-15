@@ -1,6 +1,6 @@
 <?php
 
-namespace Ford\Escape;
+namespace Ford;
 
 class Escape2016
 {
