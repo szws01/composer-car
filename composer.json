@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ford\\": "src/Ford"
+            "Ford\\": "src/Ford/"
         }
     }
 }
